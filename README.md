@@ -34,7 +34,7 @@ Pre-trained `.pkl` files store model data and clustering information for fast an
 ###  Clone the repository
 ```bash
 git clone https://github.com/Crimson-ray/MOVIE_RECOMMENDER.git
-cd movie_recommend
+cd movie_recommand
 ```
 
 ###  Create a virtual environment
